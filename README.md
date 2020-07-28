@@ -1,6 +1,7 @@
 # mo_training
 
-A new Flutter project.
+A new Flutter project to teach Mo by following this ui repo.
+https://github.com/newtonmunene99/tasker
 
 ## Getting Started
 
